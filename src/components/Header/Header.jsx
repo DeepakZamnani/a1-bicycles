@@ -165,14 +165,14 @@ const Header = () => {
                   <MessageCircle size={20} />
                   <span>WhatsApp Chat</span>
                 </button>
-                
+{/*                 
                 <button 
                   onClick={() => handleNavClick('#contact')}
                   className="w-full bg-gradient-to-r from-primary to-accent text-dark px-6 py-4 rounded-xl font-bold text-lg hover:scale-105 transform transition-all duration-300 flex items-center justify-center space-x-2"
                 >
                   <span>GET IN TOUCH</span>
                   <ArrowUpRight size={18} />
-                </button>
+                </button> */}
               </div>
             </div>
           </div>
