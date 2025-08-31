@@ -13,7 +13,7 @@ const About = () => {
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           <div className="relative">
             <img
-              src="https://images.unsplash.com/photo-1517654443271-12c6f5ba2f5b?w=600&h=400&fit=crop&crop=center"
+              src="https://images.unsplash.com/photo-1496147539180-13929f8aa03a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGJpY3ljbGV8ZW58MHx8MHx8fDA%3D"
               alt="Mountain biking adventure"
               className="rounded-2xl shadow-2xl hover:scale-105 transition-transform duration-500"
             />
@@ -26,7 +26,7 @@ const About = () => {
             </h2>
             
             <p className="text-xl text-gray-300 leading-relaxed">
-              At MORIDE, we don't just build bicycles – we craft experiences. Every frame is engineered 
+              At A1, we don't just sell bicycles – we craft experiences. Every frame is engineered 
               with precision, every component chosen for performance, and every design perfected for 
               the passionate rider.
             </p>
