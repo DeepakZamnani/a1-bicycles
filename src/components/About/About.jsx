@@ -22,7 +22,7 @@ const About = () => {
           
           <div className="space-y-8">
             <h2 className="font-heading text-4xl lg:text-6xl font-black text-light">
-              WE MAKE THE BEST <span className="text-primary">BIKES</span>
+              WE SELL THE BEST <span className="text-primary">BIKES</span>
             </h2>
             
             <p className="text-xl text-gray-300 leading-relaxed">
